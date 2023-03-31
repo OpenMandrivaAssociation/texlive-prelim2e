@@ -1,6 +1,6 @@
 Name:		texlive-prelim2e
 Version:	57000
-Release:	1
+Release:	2
 Summary:	Allows the marking of preliminary versions of a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/prelim2e
