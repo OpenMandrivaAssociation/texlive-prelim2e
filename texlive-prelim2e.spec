@@ -3,7 +3,7 @@ Version:	57000
 Release:	2
 Summary:	Allows the marking of preliminary versions of a document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/prelim2e
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/prelim2e
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/prelim2e.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/prelim2e.doc.r%{version}.tar.xz
